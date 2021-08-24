@@ -17,6 +17,6 @@ npm start
 All system data is fakes. The moved data can be found inside the API folder. If you want to execute the project and see only the graphic part, there is a registered user in the database.
 
 ```bash
-email: teste@gmail.com
+email: admin@nomade.com
 password: 123
 ```
