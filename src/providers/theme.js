@@ -28,9 +28,6 @@ const Theme = ({ children }) => {
         secondary: {
           main: deepOrange[900],
         },
-        red: {
-          main: deepOrange[900],
-        },
       },
     }),
     []
